@@ -1,0 +1,60 @@
+body {
+    margin-top: 30px;
+    background-size: cover;
+    color: white;
+}
+
+h1 {
+    color: #f3922f;
+}
+
+.form-control, input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"] {
+    border-radius: 0;
+}
+
+.row {
+    margin-top: 20px;
+}
+
+button, .button, input[type="button"], input[type="reset"], input[type="submit"] {
+    background-color: #4caf50
+}
+
+.btn-primary.active, .btn-primary.focus, .btn-primary:active, .btn-primary:focus, .btn-primary:hover, .open>.dropdown-toggle.btn-primary {
+    background-color: #1ea523;
+    border-color: #1ea523;
+}
+
+.btn-contribute {
+    background-color: #f3922f;
+}
+
+
+.btn-contribute:hover {
+    background-color: #f57c00;
+    border-color: #f57c00;
+}
+
+.margin-15 {
+    margin-left: 15px;
+}
+
+#info-bar {
+    background: white;
+    padding: 20px 0;
+}
+
+.button a {
+    text-decoration: none;
+    color: white;
+}
+
+a, a:hover, a:focus, a:visited {
+    text-decoration: none;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
